@@ -1,0 +1,12 @@
+2023-08-25
+14:40:09.796511
+Cupcake@2f0e140b
+Milk@7440e464
+2023-08-25
+15:17:54.769455
+Cupcake@3cd1a2f1
+RedVelvet@2f0e140b
+Chocolate@7440e464
+Drink@49476842
+Soda@78308db1
+Milk@27c170f0
